@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=WebRoot/assets/js/polyfill/respond.min.js,WebRoot/assets/js/amazeui.legacy.min.js,WebRoot/assets/js/amazeui.widgets.helper.min.js,WebRoot/assets/js/jquery.min.js,WebRoot/assets/js/amazeui.min.js
+validator.Unchecked=
